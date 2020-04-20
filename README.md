@@ -1,7 +1,7 @@
-#Expense Tracker
-*Keep track of income and expenses. Add and remove items and save to local storage
+# Expense Tracker
+* Keep track of income and expenses. Add and remove items and save to local storage
 
-#Project Specifications
+# Project Specifications
 Create UI for project
 Display transaction items in DOM
 Show balance, expense and income totals
